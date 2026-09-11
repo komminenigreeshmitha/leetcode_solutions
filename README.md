@@ -4,5 +4,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0875-koko-eating-bananas](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0896-monotonic-array) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
