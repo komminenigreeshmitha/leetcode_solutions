@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0875-koko-eating-bananas](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0896-monotonic-array) |
 ## Binary Search
@@ -14,10 +15,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0050-powx-n) |
 | [0441-arranging-coins](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/komminenigreeshmitha/leetcode_solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
